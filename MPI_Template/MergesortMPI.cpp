@@ -145,9 +145,3 @@ void print2(vector<int> vec)
 		cout << vec[i] << " ";
 	}
 }
-
-
-
-
-// Optional
-
